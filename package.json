@@ -4,7 +4,8 @@
   "description": "Api rest Angular MEAN",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "author": "Diego Andres Salas",
   "license": "ISC",
